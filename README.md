@@ -14,3 +14,6 @@ yarn astro add tailwind react vercel
 yarn add @material-tailwind/react @auth0/auth0-react nanostores @nanostores/react
 yarn add -D @types/node
 ```
+
+![image](https://github.com/user-attachments/assets/0ebb7671-b7d6-4db2-94c9-1d89f2cf4f05)
+
